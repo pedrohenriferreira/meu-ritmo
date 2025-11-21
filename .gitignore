@@ -47,3 +47,19 @@ next-env.d.ts
 *.db-journal
 prisma/dev.db
 dev.db
+
+# arquivos pessoais e outros projetos
+aulas-java/
+backup/
+cursos/
+declaração.pdf
+desktop.ini
+github-recovery-codes.txt
+invista-bem/
+lab03/
+link GitHub.txt
+meu-ritmo/
+print_Lab10.png
+projeto-lagarta
+yoodash-plano-integrado
+yoodash/
